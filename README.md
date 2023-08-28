@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @juchiang77608
-- 👀 I’m interested in ... javascript and Javascript Framework (ex:Angular and React)
-- 🌱 I’m currently learning ... javascript and Japanese and English
+
+
+[!(https://github-readme-stats.vercel.app/api?username=juchiang77608]()
