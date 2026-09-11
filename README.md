@@ -1,5 +1,5 @@
 
-Hi,I'm Janice.
+Hi,I'm Janice. </br>
 A Frontend Technical Manager based in Taiwan,  </br>
 specializing in Angular architecture, system design and financial platforms,  </br>
 with 10+ years of software development experience and a passion for turning complex requirements into reliable systems.</br>
